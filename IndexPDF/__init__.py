@@ -39,4 +39,5 @@ def extract_text_from_pdf(file):
     return text
 
 def get_search_client():
-    return SearchClient(endpoint="<tu-endpoint-de-search>", index_name="<tu-índice>", credential="<tu-credential>")
+    return SearchClient(endpoint="https://searchserviceapp.search.windows.net", index_name="demo-tq", credential="JkZAjT9FNmSQli5pCEZTXZdFQx1OkJkqYxjbsnYKVpAzSeAtZBmz")
+
