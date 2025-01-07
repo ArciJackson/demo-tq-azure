@@ -1,0 +1,4 @@
+azure-functions
+azure-search-documents
+azure-storage-blob
+PyPDF2
